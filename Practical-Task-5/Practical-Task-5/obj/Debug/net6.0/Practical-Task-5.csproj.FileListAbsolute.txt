@@ -1,0 +1,14 @@
+C:\Users\Dimon\source\repos\Practical-Task-5\Practical-Task-5\bin\Debug\net6.0\Practical-Task-5.exe
+C:\Users\Dimon\source\repos\Practical-Task-5\Practical-Task-5\bin\Debug\net6.0\Practical-Task-5.deps.json
+C:\Users\Dimon\source\repos\Practical-Task-5\Practical-Task-5\bin\Debug\net6.0\Practical-Task-5.runtimeconfig.json
+C:\Users\Dimon\source\repos\Practical-Task-5\Practical-Task-5\bin\Debug\net6.0\Practical-Task-5.dll
+C:\Users\Dimon\source\repos\Practical-Task-5\Practical-Task-5\bin\Debug\net6.0\Practical-Task-5.pdb
+C:\Users\Dimon\source\repos\Practical-Task-5\Practical-Task-5\obj\Debug\net6.0\Practical-Task-5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dimon\source\repos\Practical-Task-5\Practical-Task-5\obj\Debug\net6.0\Practical-Task-5.AssemblyInfoInputs.cache
+C:\Users\Dimon\source\repos\Practical-Task-5\Practical-Task-5\obj\Debug\net6.0\Practical-Task-5.AssemblyInfo.cs
+C:\Users\Dimon\source\repos\Practical-Task-5\Practical-Task-5\obj\Debug\net6.0\Practical-Task-5.csproj.CoreCompileInputs.cache
+C:\Users\Dimon\source\repos\Practical-Task-5\Practical-Task-5\obj\Debug\net6.0\Practical-Task-5.dll
+C:\Users\Dimon\source\repos\Practical-Task-5\Practical-Task-5\obj\Debug\net6.0\refint\Practical-Task-5.dll
+C:\Users\Dimon\source\repos\Practical-Task-5\Practical-Task-5\obj\Debug\net6.0\Practical-Task-5.pdb
+C:\Users\Dimon\source\repos\Practical-Task-5\Practical-Task-5\obj\Debug\net6.0\Practical-Task-5.genruntimeconfig.cache
+C:\Users\Dimon\source\repos\Practical-Task-5\Practical-Task-5\obj\Debug\net6.0\ref\Practical-Task-5.dll
